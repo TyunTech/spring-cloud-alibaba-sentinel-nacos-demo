@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/employee_directory?useSSL=false&serverTimezone=UTC
     username: employee
-    password: employEE!@#123
+    password: xxxxxxx
   cloud:
     sentinel:
       transport:
@@ -18,8 +18,8 @@ spring:
         username: nacos
         password: nacos
 url:
-  name: tyun
-  address: www.tyun.cn
+  name: lavenliu
+  address: www.lavenliu.cn
 management:
   endpoints:
     web:
